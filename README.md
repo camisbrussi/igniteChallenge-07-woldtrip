@@ -1,7 +1,13 @@
-<h1 align="center"> Ignite Chapter III (Challenge 1 e 2) - Construindo interfaces do futuro </h1>
+<h1 align="center"> Ignite Chapter IV (Challenge 1) - Construindo interfaces do futuro </h1>
 
- ![Alt Text](https://media.giphy.com/media/j9vgoPTEkSj0IPdNg3/giphy.gif)
-  
+<div align="center">
+ 
+ ![Alt Text](https://github.com/camisbrussi/igniteChallenge-07-woldtrip/blob/main/public/images/final.gif) 
+ 
+</div>
+ 
+
+
 
 
 ## Descrição do desafio
